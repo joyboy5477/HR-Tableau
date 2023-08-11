@@ -5,6 +5,6 @@ This project aims to provide HR managers with data-driven insights for better de
 ## Tableau Dashboard Link
 
 Check out the [Tableau Dashboard](https://public.tableau.com/app/profile/akash.vishwakarma8262/viz/HRDashboard_16917241661500/HRDashboard) to explore the visualizations and insights derived from our HR analytics project.
-![HR Analytics Dashboard](URL_TO_IMAGE)
+![HR Analytics Dashboard](https://github.com/joyboy5477/HR-Tableau/blob/main/Dash.png)
 
 Feel free to clone or fork this repository and adapt it for your own projects.
