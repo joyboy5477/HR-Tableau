@@ -1,2 +1,9 @@
-# HR-Tableau
-HR Analytics Dashboard Project: Analyzing employee data using Python, Excel, SQL, and Tableau. Insights into attrition rates, departmental distribution, age groups, job satisfaction, and education field-wise attrition. Informed decision-making for improved HR strategies.
+# HR Analytics Dashboard Project
+
+This project aims to provide HR managers with data-driven insights for better decision-making. By utilizing tools like Python, Excel, SQL, and Tableau, we analyze employee data, including attrition rates, departmental distribution, age groups, job satisfaction, and education field-wise attrition. The interactive Tableau dashboard offers valuable insights into HR strategies.
+
+## Tableau Dashboard Link
+
+Check out the [Tableau Dashboard](https://public.tableau.com/app/profile/akash.vishwakarma8262/viz/HRDashboard_16917241661500/HRDashboard) to explore the visualizations and insights derived from our HR analytics project.
+
+Feel free to clone or fork this repository and adapt it for your own projects.
